@@ -15,4 +15,4 @@ public class TestRectangulo {
 		System.out.println("Perimetro= "+perimetro);
 	}
 
-}    
+}   
